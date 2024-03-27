@@ -12,7 +12,7 @@ $ git clone https://github.com/letslinux/aws-resource-list
 $ cd aws-resource-list
 ```
 # Execution
-Open git terminal / Mobaxterm / Linux terminal. Then type the following commands
+Open aws-resource-list Git terminal / Mobaxterm / Linux terminal. Then type the following command
 ```bash
 $ bash aws_resource_list.sh
 ```
